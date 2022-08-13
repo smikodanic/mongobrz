@@ -1,0 +1,28 @@
+{
+  "name": "mongobrz",
+  "version": "1.0.0",
+  "title": "Mongo Brz",
+  "description": "Fast way to start with mongodb. Mongoose schema, model and functions ready to manage database, collection and document.",
+  "keywords": [
+    "mongo",
+    "mongodb",
+    "mongoose",
+    "api",
+    "mongo functions",
+    "mongo methods",
+    "database",
+    "collection",
+    "document"
+  ],
+  "author": "Saša Mikodanić",
+  "license": "AGPL-3.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:smikodanic/mongobrz.git"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "mongoose": "^5.10.2"
+  }
+}
